@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlharsh&show_icons=true&theme=dracula) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rlharsh&theme=dracula)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rlharsh&show_icons=true&locale=en" alt="rlharsh" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on [Chatnonymous](https://github.com/rlharsh/chat)
