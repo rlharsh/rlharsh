@@ -4,7 +4,7 @@
 
 ### I'm a 🇫🇷 Software Developer living in 🇧🇷 and working at [Zup Innovation](https://www.zup.com.br/).
 
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+[![Platane/snk GitHub Snake Widget](https://rlharsh.github.io/snk/dist/index.svg)](https://github.com/Platane/snk)
 
 ### Languages & Tools 🛠
 
