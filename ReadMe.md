@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronald Harsh</h1>
 <h3 align="center">A passionate frontend developer from Iceland currently living in the US.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlharsh&show_icons=true&theme=dracula) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rlharsh&theme=dracula)](https://git.io/streak-stats)
+<p style="text-align: center;">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlharsh&show_icons=true&theme=dracula) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rlharsh&theme=dracula)](https://git.io/streak-stats)</p>
 
 
 - 🔭 I’m currently working on [Chatnonymous](https://github.com/rlharsh/chat)
