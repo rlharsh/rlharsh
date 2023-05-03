@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<h3 align="left">A little about me:</h3>
 - 🔭 I’m currently working on [Chatnonymous](https://github.com/rlharsh/chat)
 
 - 🌱 I’m currently learning **Angular, Python & Flutter**
