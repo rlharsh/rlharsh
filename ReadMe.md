@@ -1,50 +1,28 @@
-![Profile Views](https://komarev.com/ghpvc/?username=rlharsh&color=blue)
+<h1 align="center">Hi 👋, I'm Ronald Harsh</h1>
+<h3 align="center">A passionate frontend developer from Iceland currently living in the US.</h3>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlharsh" alt="rlharsh" /></a> </p>
 
-### I'm a 🇫🇷 Software Developer living in 🇧🇷 and working at [Zup Innovation](https://www.zup.com.br/).
+- 🔭 I’m currently working on [Chatnonymous](https://github.com/rlharsh/chat)
 
-[![Platane/snk GitHub Snake Widget](https://rlharsh.github.io/snk/dist/index.svg)](https://github.com/Platane/snk)
+- 🌱 I’m currently learning **Angular, Python & Flutter**
 
-### Languages & Tools 🛠
+- 👀 You can peep it at [https://vermillion-gnome-a889b2.netlify.app/](https://vermillion-gnome-a889b2.netlify.app/)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+- 💬 Ask me about **react, javascript, html**
 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka) ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
+- 📫 How to reach me **ronald.harsh@protonmail.com**
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+- ⚡ Fun fact **I type 95+ words per minute.**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
-
-### Analytics ⚙️
-  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd" />
-</p>  
- 
-<p align="left">
-<a href="https://github.com/GuillaumeFalourd">
-  <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/>
-</a>
+<a href="https://linkedin.com/in/ronald-harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronald-harsh" height="30" width="40" /></a>
 </p>
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### Let's connect ? 🤝
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rlharsh&show_icons=true&locale=en&layout=compact" alt="rlharsh" /></p>
 
-<p align="left">
-<a href="http://bit.ly/guillaumefalourdlinkedin"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdtwitter"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdstackoverflow"><img src="https://img.shields.io/badge/guifalourd-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdmedium"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourddevto"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
-<a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
-### Customize your README profile 🧑‍💻⭐
-
-#### 👉   _[Statistics](https://github.com/anuraghazra/github-readme-stats) ➕  [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ➕  [Snake animation](https://github.com/Platane/snk) ➕  [Metrics](https://github.com/marketplace/actions/metrics-embed)_
-
-#### 👉   _[STEP by STEP to create a similar README profile](https://bit.ly/devtoritgithubcreateprofile)_
-
-#### ... or fork this repository! 😁
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rlharsh&show_icons=true&locale=en" alt="rlharsh" /></p>
