@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ronald Harsh</h1>
 <h3 align="center">A passionate frontend developer from Iceland currently living in the US.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rlharsh" alt="rlharsh" /></a> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlharsh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on [Chatnonymous](https://github.com/rlharsh/chat)
 
